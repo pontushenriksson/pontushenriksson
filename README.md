@@ -23,7 +23,7 @@ I'm Pontus Henriksson a Student and Full Stack Web Developer. I Spend most of ti
 
 #### Business
 
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/pontushenriksson/pontushenriksson/blob/master/resumes/resume%20v1.0.md)
 - :email: pontushenrikssn@gmail.com
 
 #### Profile Visits
