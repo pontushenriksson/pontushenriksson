@@ -8,7 +8,7 @@ I'm Pontus Henriksson a Student and Full Stack Web Developer. I Spend most of ti
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on projects for @3friendsco
+- 🔭 I’m currently working on projects for @3FriendsCO, @VernFM and @ZippiUX
 - 📫 How to reach me: pontushenrikssn@gmail.com.
 - 😄 Other names: Pontus, Pontushenrikssn and Vern.
 - ⚡ Fun fact: I play games and go to the GYM very often.
