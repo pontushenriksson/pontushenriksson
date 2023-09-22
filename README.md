@@ -6,7 +6,7 @@ I'm Pontus Henriksson a Student and Full Stack Web Developer. I Spend most of ti
 
 [![Linkedin Badge](https://img.shields.io/badge/-pontushenriksson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pontushenriksson/) [![Mail Badge](https://img.shields.io/badge/-@pontushenrikssn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/pontushenrikssn) [![Mail Badge](https://img.shields.io/badge/-pontushenrikssn@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pontushenrikssn@gmail.com)
 
-- 🔭 I’m currently working on projects for @3FriendsCO, @VernFM and @ZippiUX
+- 🔭 I’m currently working on projects for @BreakerLabs, @VernFM and @ZippiUX
 - 📫 How to reach me: pontushenrikssn@gmail.com.
 - 😄 Other names: Pontus, Pontushenrikssn and Vern.
 - ⚡ Fun fact: I play games and go to the GYM very often.
