@@ -1,36 +1,40 @@
-## Hi I'm Pontus <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+![MasterHead](https://miro.medium.com/v2/resize:fit:2800/format:webp/1*1KEln4PhkLy0Q18nGx_4KQ.png)
 
-I'm Pontus Henriksson a Student and Full Stack Web Developer. I Spend most of time coding amazing projects or going to the gym.
+<h1 align="center">Hi 👋, I'm Pontus Henriksson</h1>
+<h3 align="center">A passionate Student and Full Stack Web Developer. I Spend most of time coding amazing projects or going to the gym.</h3>
 
-:mailbox: Reach out to me!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pontushenriksson&label=Profile%20views&color=0e75b6&style=flat" alt="pontushenriksson" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pontushenriksson-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pontushenriksson/) [![Mail Badge](https://img.shields.io/badge/-@pontushenrikssn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/pontushenrikssn) [![Mail Badge](https://img.shields.io/badge/-pontushenrikssn@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pontushenrikssn@gmail.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pontushenriksson" alt="pontushenriksson" /></a> </p>
 
-- 🔭 I’m currently working on projects for @BreakerLabs, @VernFM and @ZippiUX
-- 📫 How to reach me: pontushenrikssn@gmail.com.
-- 😄 Other names: Pontus, Pontushenrikssn and Vern.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🔭 I’m currently working on projects for BreakerLabs like [The Lotus Programming Language](https://github.com/BreakerLabs)
+- 🔭 I’m currently working on projects for ZippiUX like the [VernFM music platform](https://github.com/VernFM) and the [Course platform ZippiUX SkillHub](https://github.com/ZippiUX)
 
-#### Business
+- 🌱 I’m currently learning **React, SvelteKit, Rust**
 
-- :paperclip: [My Resume/CV](https://github.com/pontushenriksson/pontushenriksson/blob/master/resumes/resume%20v1.0.md)
-- :email: pontushenrikssn@gmail.com
+- 👨‍💻 All of my projects are available at [https://pontushenriksson.github.io/](https://pontushenriksson.github.io/)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+- 📫 How to reach me **pontushenrikssn@gmail.com**
 
-<br >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/pontushenriksson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pontushenriksson" height="30" width="40" /></a>
+<a href="https://dev.to/pontushenriksson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pontushenriksson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pontushenriksson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pontushenriksson" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16292899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16292899" height="30" width="40" /></a>
+<a href="https://fb.com/pontushenrikssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pontushenrikssn" height="30" width="40" /></a>
+<a href="https://instagram.com/pontushenrikssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pontushenrikssn" height="30" width="40" /></a>
+<a href="https://dribbble.com/pontushenrikssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pontushenrikssn" height="30" width="40" /></a>
+<a href="https://medium.com/@pontushenriksson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pontushenriksson" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pontushenrikssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pontushenrikssn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pontushenriksson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pontushenriksson" height="30" width="40" /></a>
+</p>
 
-I love sharing knowledge and learning more!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-#### Coding Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pontushenriksson&show_icons=true&locale=en&layout=compact" alt="pontushenriksson" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pontushenriksson&langs_count=8)](https://github.com/pontushenriksson/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pontushenriksson&show_icons=true&locale=en" alt="pontushenriksson" /></p>
 
-#### Github Stats
-
-![Pontus Henriksson github stats](https://github-readme-stats.vercel.app/api?username=pontushenriksson&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pontushenriksson&" alt="pontushenriksson" /></p>
