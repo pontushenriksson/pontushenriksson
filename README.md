@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pontushenriksson" alt="pontushenriksson" /></a> </p>
 
 - 🔭 I’m currently working on projects for Totem Studios like [The Lotus Programming Language](https://github.com/Totem-Studios/lotus)
-- 🔭 I’m also working on projects for ZippiUX like the [VernFM music platform](https://github.com/VernFM) and the [Course platform ZippiUX SkillHub](https://github.com/ZippiUX)
+- 🔭 I’m also working on projects for ZippiUX like the [VernFM music platform](https://github.com/VernFM) and the Course platform [ZippiUX SkillHub](https://github.com/ZippiUX)
 
 - 🌱 I’m currently learning **React.js and Rust**
 
