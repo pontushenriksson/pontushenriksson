@@ -1,20 +1,20 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2800/format:webp/1*1KEln4PhkLy0Q18nGx_4KQ.png)
 
 <h1 align="center">Hi 👋, I'm Pontus Henriksson</h1>
-<h3 align="center">A passionate Student and Full Stack Web Developer. I Spend most of time coding amazing projects or going to the gym.</h3>
+<h3 align="center">A passionate Student and Full Stack Web Developer. I specialize in front-end development and I spend most of my time contributing to amazing projects or going to the gym.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pontushenriksson&label=Profile%20views&color=0e75b6&style=flat" alt="pontushenriksson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pontushenriksson" alt="pontushenriksson" /></a> </p>
 
-- 🔭 I’m currently working on projects for BreakerLabs like [The Lotus Programming Language](https://github.com/BreakerLabs)
-- 🔭 I’m currently working on projects for ZippiUX like the [VernFM music platform](https://github.com/VernFM) and the [Course platform ZippiUX SkillHub](https://github.com/ZippiUX)
+- 🔭 I’m currently working on projects for Totem Studios like [The Lotus Programming Language](https://github.com/Totem-Studios/lotus)
+- 🔭 I’m also working on projects for ZippiUX like the [VernFM music platform](https://github.com/VernFM) and the [Course platform ZippiUX SkillHub](https://github.com/ZippiUX)
 
-- 🌱 I’m currently learning **React, SvelteKit, Rust**
+- 🌱 I’m currently learning **React.js and Rust**
 
-- 👨‍💻 All of my projects are available at [https://pontushenriksson.github.io/](https://pontushenriksson.github.io/)
+- 👨‍💻 All of my projects are available at [https://pontushenriksson.com/](https://pontushenriksson.com/)
 
-- 📫 How to reach me **pontushenrikssn@gmail.com**
+- 📫 How to reach me **pontus@henriksson.space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
