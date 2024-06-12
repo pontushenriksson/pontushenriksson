@@ -24,7 +24,8 @@
   - 🔭 I’m currently working on projects for Totem Studios like the Lotus Programming Language - https://github.com/Totem-Studios/lotus <br>
   - 🌱 I’m currently learning **React.js and Rust** <br>
   - 👨‍💻 All of my projects are available at my portfolio website - https://pontushenriksson.com/ <br>
-  - 📫 Email me at **pontus@henriksson.space**</p>
+  - 📫 Email me at **pontus@henriksson.space**
+</p>
 
 ###
 
