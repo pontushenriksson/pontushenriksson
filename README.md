@@ -20,12 +20,10 @@
 
 ###
 
-<p align="left">
   - 🔭 I’m currently working on projects for Totem Studios like the Lotus Programming Language - https://github.com/Totem-Studios/lotus
   - 🌱 I’m currently learning ``React.js`` and ``Rust``
   - 👨‍💻 All of my projects are available at my portfolio website - <a href="https://pontushenriksson.com/" target="blank">https://pontushenriksson.com/</a>
   - 📫 Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>
-</p>
 
 ###
 
