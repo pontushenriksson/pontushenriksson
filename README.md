@@ -6,6 +6,10 @@
 
 <p align="center">Hello World!</p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pontushenriksson.pontushenriksson&left_text=Profile%20views"  />
+</div>
+
 ###
 
 <h1 align="center">Hi, I am Pontus Henriksson!</h1>
@@ -24,12 +28,6 @@
   - 🌱 I’m currently learning ``React.js`` and ``Rust``
   - 👨‍💻 All of my projects are available at my portfolio website - <a href="https://pontushenriksson.com/" target="blank">https://pontushenriksson.com/</a>
   - 📫 Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pontushenriksson.pontushenriksson&left_text=Profile%20views"  />
-</div>
 
 ###
 
