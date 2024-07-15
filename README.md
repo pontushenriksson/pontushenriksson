@@ -86,7 +86,7 @@
 ```
   ∧,,,∧
  (• ⩊ •)                                 ∧,,,∧
-|￣U U￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|      (• · •)
-| Thanks for visiting my profile! |     /  づ♡ I love you
+|￣U U￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|      (• ⩊ •)
+| Thanks for visiting my profile! |     /    づ♡ I love you
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 ```
