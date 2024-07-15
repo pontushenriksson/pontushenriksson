@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/branding/profile-img.jpg" style="width: 100px" />
+  <img src="./assets/branding/me.jpg" style="width: 100px; border-radius: 20px;" />
   <h3 align="center">Pontus Henriksson</h3>
   <p align="center">Full-stack software engineer</p>
 </div>
