@@ -30,7 +30,7 @@
 
 <h3 align="center">Hi, I am Pontus Henriksson!</h3>
 
-<p align="center">A passionate student and full-stack web developer. I specialize in front-end development and I spend most of my time contributing to amazing projects or going to the gym. Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a></p>
+<p align="center">I’m a passionate student and full-stack web developer. I specialize in front-end development and spend most of my time contributing to amazing projects, hitting the gym, or petting my two cats. I believe open source is essential for the growth of the tech community. Feel free to reach out at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>.</p>
 
 ###
 
@@ -45,7 +45,7 @@
   <img src="./assets/icons/react.svg" height="36px">
 </div>
 
-<h4 align="left">The languages and tools I know best:</h4>
+<h4 align="left">Proficient in:</h4>
 
 ###
 
@@ -60,8 +60,6 @@
   <img src="./assets/icons/java-non-simpleicons.svg" height="36px">
   <img src="./assets/icons/python.svg" height="36px">
   <img src="./assets/icons/figma.svg" height="36px">
-  <img src="./assets/icons/xampp.svg" height="36px">
-  <img src="./assets/icons/phpmyadmin.svg" height="36px">
 </div>
 
 ###
@@ -82,3 +80,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pontushenriksson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pontushenriksson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+---
+
+```
+  ∧,,,∧
+ (• ⩊ •)                                   ∧,,,∧
+|￣U U￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|      (• · •)
+| Thanks for visiting my profile! |       /づ♡ I love you
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+```
