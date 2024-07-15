@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-img.jpg" style="width: 100px" />
+  <img src="./assets/branding/profile-img.jpg" style="width: 100px" />
   <h3 align="center">Pontus Henriksson</h3>
   <p align="center">Full-stack software engineer</p>
 </div>
@@ -24,81 +24,49 @@
 
 <br />
 
-<img src="./assets/profile-banner.jpg" align="center"/>
+<img src="./assets/branding/profile-banner.jpg" align="center"/>
 
 <br />
 
 <h3 align="center">Hi, I am Pontus Henriksson!</h3>
 
-###
-
-<p align="center">A passionate student and full-stack web developer. I specialize in front-end development and I spend most of my time contributing to amazing projects or going to the gym.</p>
+<p align="center">A passionate student and full-stack web developer. I specialize in front-end development and I spend most of my time contributing to amazing projects or going to the gym. Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a></p>
 
 ###
 
-<p align="left">Short description:</p>
-
-###
-
-- 🔭 I’m currently working on projects for Totem Studios like the Lotus Programming Language - https://github.com/Totem-Studios/lotus
-- 🌱 I’m currently learning `React.js` and `Rust`
-- 👨‍💻 All of my projects are available at my portfolio website - <a href="https://pontushenriksson.com/" target="blank">https://pontushenriksson.com/</a>
-- 📫 Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>
-
-###
-
-<p align="left">Connect with me:</p>
+<h4 align="left">Currently learning:</h4>
 
 ###
 
 <div align="left">
-  <a href="https://codepen.io/pontushenriksson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pontushenriksson" height="30" width="40" /></a>
-<a href="https://dev.to/pontushenriksson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pontushenriksson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pontushenriksson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pontushenriksson" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16292899" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16292899" height="30" width="40" /></a>
-<a href="https://fb.com/pontushenrikssn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pontushenrikssn" height="30" width="40" /></a>
-<a href="https://instagram.com/pontushenrikssn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pontushenrikssn" height="30" width="40" /></a>
-<a href="https://dribbble.com/pontushenrikssn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pontushenrikssn" height="30" width="40" /></a>
-<a href="https://medium.com/@pontushenriksson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pontushenriksson" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pontushenrikssn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pontushenrikssn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pontushenriksson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pontushenriksson" height="30" width="40" /></a>
+  <img src="./assets/icons/php.svg" height="36px">
+  <img src="./assets/icons/laravel.svg" height="36px">
+  <img src="./assets/icons/rust.svg" height="36px">
+  <img src="./assets/icons/react.svg" height="36px">
 </div>
 
-###
-
-<p align="left">Languages and tools:</p>
+<h4 align="left">The languages and tools I know best:</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="./assets/icons/html5.svg" height="36px">
+  <img src="./assets/icons/css3.svg" height="36px">
+  <img src="./assets/icons/javascript.svg" height="36px">
+  <img src="./assets/icons/sass.svg" height="36px">
+  <img src="./assets/icons/nodedotjs.svg" height="36px">
+  <img src="./assets/icons/mongodb.svg" height="36px">
+  <img src="./assets/icons/cplusplus.svg" height="36px">
+  <img src="./assets/icons/java-non-simpleicons.svg" height="36px">
+  <img src="./assets/icons/python.svg" height="36px">
+  <img src="./assets/icons/figma.svg" height="36px">
+  <img src="./assets/icons/xampp.svg" height="36px">
+  <img src="./assets/icons/phpmyadmin.svg" height="36px">
 </div>
 
 ###
 
-<p align="left">A cute snake displaying my activity:</p>
+<h4 align="left">A cute snake displaying my activity:</h4>
 
 ###
 
@@ -106,7 +74,7 @@
 
 ###
 
-<p align="left">My stats:</p>
+<h4 align="left">My stats:</h4>
 
 ###
 
