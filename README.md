@@ -1,14 +1,34 @@
 <div align="center">
-  <img height="200" src="https://pontushenriksson.com/media/off-site/github-banner.jpg"  />
+  <img src="./assets/profile-img.jpg" style="width: 100px" />
+  <h3 align="center">Pontus Henriksson</h3>
+  <p align="center">Full-stack software engineer</p>
 </div>
 
-###
+<h6 align="center">
+  <a href="https://pontushenriksson.com" target="_blank"
+    >Portfolio</a
+  >
+  <span>·</span>
+  <a href="https://links.pontushenriksson.com" target="_blank"
+    >Links</a
+  >
+  <span>·</span>
+  <a href="https://games.pontushenriksson.com" target="_blank"
+    >Games</a
+  >
+  <span>·</span>
+  <a href="https://blog.pontushenriksson.com" target="_blank"
+    >Blog</a
+  >
+</h6>
 
-<p align="center">Hello World!</p>
+<br />
 
-###
+<img src="./assets/profile-banner.jpg" align="center"/>
 
-<h1 align="center">Hi, I am Pontus Henriksson!</h1>
+<br />
+
+<h3 align="center">Hi, I am Pontus Henriksson!</h3>
 
 ###
 
@@ -20,10 +40,10 @@
 
 ###
 
-  - 🔭 I’m currently working on projects for Totem Studios like the Lotus Programming Language - https://github.com/Totem-Studios/lotus
-  - 🌱 I’m currently learning ``React.js`` and ``Rust``
-  - 👨‍💻 All of my projects are available at my portfolio website - <a href="https://pontushenriksson.com/" target="blank">https://pontushenriksson.com/</a>
-  - 📫 Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>
+- 🔭 I’m currently working on projects for Totem Studios like the Lotus Programming Language - https://github.com/Totem-Studios/lotus
+- 🌱 I’m currently learning `React.js` and `Rust`
+- 👨‍💻 All of my projects are available at my portfolio website - <a href="https://pontushenriksson.com/" target="blank">https://pontushenriksson.com/</a>
+- 📫 Email me at <a href="mailto:pontus@henriksson.space" target="blank">pontus@henriksson.space</a>
 
 ###
 
