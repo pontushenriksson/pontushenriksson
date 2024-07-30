@@ -11,10 +11,10 @@
   <span>·</span>
   <a href="https://links.pontushenriksson.com" target="_blank"
     >Links</a
-  ><span>·</span>
+  > <span>·</span>
   <a href="https://podcast.pontushenriksson.com" target="_blank"
     >Podcast</a
-  >
+  > 
   <span>·</span>
   <a href="https://games.pontushenriksson.com" target="_blank"
     >Games</a
