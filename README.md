@@ -88,8 +88,8 @@
 
 ```
   ∧,,,∧
- (• ⩊ •)                                 ∧,,,∧
+ (• ⩊ •)                                    ∧,,,∧
 |￣U U￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|      (• ⩊ •)
-| Thanks for visiting my profile! |     /    づ♡ I love you
+| Thanks for visiting my profile!    |     /    づ♡ I love you
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 ```
