@@ -40,7 +40,6 @@
 
 <div align="left">
   <img src="./assets/icons/php.svg" height="36px">
-  <img src="./assets/icons/laravel.svg" height="36px">
   <img src="./assets/icons/rust.svg" height="36px">
   <img src="./assets/icons/react.svg" height="36px">
 </div>
